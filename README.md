@@ -15,11 +15,11 @@ After enhacing web accessibility and functionality with code structure modificat
 
 > For further documentation, please review HTML and CSS comment tags.
 
-#### Preview:
-![screenshot](/horiseon-inc-page-demo.png)
-
 #### Click here to visit their website: 
 *https://denysha-abigail.github.io/horiseon-sss-inc/*
+
+#### Preview:
+![screenshot](/horiseon-inc-page-demo.png)
 
 #### Contributors: 
 
