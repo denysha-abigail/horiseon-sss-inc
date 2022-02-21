@@ -1,8 +1,10 @@
-# Welcome to Horiseon Social Solution Services, Inc.
+# Welcome to Horiseon Social Solution Services, Inc. #
 
-### Update Version 2.22
+### Update Version 2.22 ###
 
-#### Features:
+
+#### Features: ####
+
 After enhacing web accessibility and functionality with code structure modifications, users can now access screen reader assistive technologies!
 
 *Bug fixes:* 
@@ -15,12 +17,12 @@ After enhacing web accessibility and functionality with code structure modificat
 
 > For further documentation, please review HTML and CSS comment tags.
 
-#### Click here to visit their website: 
+#### Click here to visit their website: ####
 *https://denysha-abigail.github.io/horiseon-sss-inc/*
 
-#### Preview:
+#### Preview: ####
 ![screenshot](/horiseon-inc-page-demo.png)
 
-#### Contributors: 
+#### Contributors: ####
 
 *Denysha Guerrios-Armaiz, 02/2022*
