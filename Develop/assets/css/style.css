@@ -8,10 +8,6 @@ body {
     background-color: #d9dcd6;
 }
 
-p {
-    font-size: 16px;
-}
-
 /* header style starts */
 .header {
     padding: 20px;
@@ -139,6 +135,11 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+/* added benefit-box p style */
+.benefit-box p {
+    font-size: 16px;
 }
 /* <aside> benefits style ends */
 
