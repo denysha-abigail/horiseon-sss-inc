@@ -3,7 +3,7 @@
 ### Update Version 2.22
 
 #### Features:
-After enhacing web accessibility and functionality with a modification in code structure, users can now access screen reader assistive technologies!
+After enhacing web accessibility and functionality with code structure modifications, users can now access screen reader assistive technologies!
 
 *Bug fixes: Non-semantic HTML elements were replaced with semantic HTML elements to define and distinguish between the type of content being displayed. CSS utility classes were created to rename component classes for reusable purposes to eliminate DRY code. Title was added and links were adjusted accordingly for user redirection to corresponding locations within the webpage.* 
 
