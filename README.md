@@ -9,12 +9,12 @@ Users can now access screen reader assistive technologies after a modification i
 
 > For further evaluation, please review HTML and CSS documentation and comment tags.
 
-### Preview:
+#### Preview:
 ![screenshot](/horiseon-inc-page-demo.png)
 
-### Click here to visit their website: 
+#### Click here to visit their website: 
 *https://denysha-abigail.github.io/horiseon-sss-inc/*
 
-### Contributors: 
+#### Contributors: 
 
 *Denysha Guerrios-Armaiz, 02/2022*
