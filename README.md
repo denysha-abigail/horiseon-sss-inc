@@ -20,7 +20,7 @@ After enhacing web accessibility and functionality with code structure modificat
 *https://denysha-abigail.github.io/horiseon-sss-inc/*
 
 #### Preview:
-![screenshot](/horiseon-inc-page-demo.png)
+![screenshot](/assets/images/horiseon-inc-page-demo.png)
 
 #### Contributors:
 
