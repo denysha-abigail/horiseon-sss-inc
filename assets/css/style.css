@@ -21,12 +21,12 @@ body {
     font-size: 48px;
 }
 
-/* changed .seo to span */
+/* replaced .seo with span */
 .header h1 span {
     color: #d9dcd6;
 }
 
-/* changed div to nav */
+/* replaced div with nav */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -36,14 +36,14 @@ body {
 }
 
 /* removed .header nav ul and placed list-style-type:none under .header nav ul li */
-/* changed div to nav */
+/* replaced div with nav */
 .header nav ul li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
 
-/* added .header nav ul li  */
+/* added .header nav ul li to a */
 .header nav ul li a {
     color: #ffffff;
     text-decoration: none;
@@ -78,7 +78,7 @@ body {
     margin-left: 20px;
 }
 
-/* DRY code: replaced header article classes with content-box */
+/* DRY code: replaced header article classes with .content-box */
 .content-box {
     margin-bottom: 20px;
     padding: 50px;
@@ -88,24 +88,24 @@ body {
     color: #ffffff;
 }
 
-/* DRY code: replaced header article img classes with content-box img */
+/* DRY code: replaced header article img classes with .content-box img */
 .content-box img {
     max-height: 200px;
 }
 
-/* DRY code: replaced header article h2 classes with content-box h2 */
+/* DRY code: replaced header article h2 classes with .content-box h2 */
 .content-box h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* added content-box p style */
+/* added .content-box p style */
 .content-box p {
     font-size: 16px;
 }
 /* content style ends */
 
-/* <aside> benefits style starts */
+/* benefits style starts */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -117,31 +117,31 @@ body {
     background-color: #2589bd;
 }
 
-/* DRY code: replaced benefit- article classes with benefit-box */
+/* DRY code: replaced benefit- article classes with .benefit-box */
 .benefit-box {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* DRY code: replaced benefit- article h3 classes with benefit-box h3  */
+/* DRY code: replaced benefit- article h3 classes with .benefit-box h3 */
 
 .benefit-box h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* DRY code: replaced benefit- img classes with benefit-box img */
+/* DRY code: replaced benefit- img classes with .benefit-box img */
 .benefit-box img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* added benefit-box p style */
+/* added .benefit-box p style */
 .benefit-box p {
     font-size: 16px;
 }
-/* <aside> benefits style ends */
+/* benefits style ends */
 
 /* footer style starts */
 .footer {
