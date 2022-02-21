@@ -3,11 +3,11 @@
 ### Update Version 2.22
 
 #### Features:
-Users can now access screen reader assistive technologies after a modification in code structure enhanced web accessibility and functionality.
+Users can now access screen reader assistive technologies after a modification in code structure enhanced web accessibility and functionality!
 
-*Bug fixes: Non-semantic HTML elements were replaced with semantic ones to define and distinguish between the type of content displayed. CSS utility classes were created to rename component classes for reusable purposes to eliminate DRY code. Title was added and links were adjusted accordingly for page redirection to corresponding locations within the webpage.* 
+*Bug fixes: Non-semantic HTML elements were replaced with semantic ones to define and distinguish between the type of content displayed. CSS utility classes were created to rename component classes for reusable purposes to eliminate DRY code. Title was added and links were adjusted accordingly for redirection to corresponding locations within the webpage.* 
 
-> For further evaluation, please review HTML and CSS documentation and comment tags.
+> For further documentation, please review HTML and CSS comment tags.
 
 #### Preview:
 ![screenshot](/horiseon-inc-page-demo.png)
