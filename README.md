@@ -24,4 +24,4 @@ After enhacing web accessibility and functionality with code structure modificat
 
 ###### Contributors:
 
-*Denysha Guerrios-Armaiz, 02/2022*
+###### *Denysha Guerrios-Armaiz, 02/2022*
