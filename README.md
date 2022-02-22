@@ -4,7 +4,7 @@
 
 #### Features:
 
-After enhacing web accessibility and functionality with code structure modifications, users can now access screen reader assistive technologies!
+After enhacing web accessibility and functionality with code structure modifications, users can now access screen reader assistive technologies.
 
 *Bug fixes:* 
 
