@@ -23,5 +23,4 @@ After enhacing web accessibility and functionality with code structure modificat
 ![screenshot](/assets/images/horiseon-inc-page-demo.png)
 
 ###### Contributors:
-
 ###### *Denysha Guerrios-Armaiz, 02/2022*
