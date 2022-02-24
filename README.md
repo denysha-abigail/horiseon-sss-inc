@@ -15,7 +15,7 @@ After enhacing web accessibility and functionality with code structure modificat
 
 > For further documentation, please refer to HTML and CSS comment tags.
 
-## Click here to visit their website:
+## Website:
 *https://denysha-abigail.github.io/horiseon-sss-inc/*
 
 ## Preview:
