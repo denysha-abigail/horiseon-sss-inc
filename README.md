@@ -10,6 +10,7 @@ After enhacing web accessibility and functionality with code structure modificat
 
 - *Non-semantic HTML elements were replaced with semantic HTML elements to define and distinguish between the type of content being displayed.*
 - *Reusable CSS utility classes were created to rename component classes to consolidate DRY code.*
+- *Resusable CSS variable was created to replace repetitive property values.*
 - *Links were adjusted accordingly for user redirection to corresponding locations within the webpage.*
 - *Title element was updated with a descriptive webpage name and alternative text attributes were added to decorative and simple images for improved accessibility and search engine optimization.*
 
